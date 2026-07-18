@@ -167,7 +167,7 @@ http://localhost:3000
 
 Add screenshots here after deployment.
 
-```
+
 Home Page
 <img width="1918" height="906" alt="Screenshot 2026-07-18 142829" src="https://github.com/user-attachments/assets/8516d23d-ed2b-4dd9-a907-4ada0dffa637" />
 
@@ -190,7 +190,7 @@ Authentication
 
 
 Features
-```
+
 <img width="1918" height="905" alt="Screenshot 2026-07-18 142958" src="https://github.com/user-attachments/assets/6548009b-2f50-4e07-981c-5e812f859eda" />
 
 <img width="1918" height="898" alt="Screenshot 2026-07-18 143629" src="https://github.com/user-attachments/assets/246b45a5-c6e3-455f-bece-c2e706f7f306" />
