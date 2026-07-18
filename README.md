@@ -169,13 +169,34 @@ Add screenshots here after deployment.
 
 ```
 Home Page
+<img width="1918" height="906" alt="Screenshot 2026-07-18 142829" src="https://github.com/user-attachments/assets/8516d23d-ed2b-4dd9-a907-4ada0dffa637" />
+
 
 Dashboard
+<img width="1918" height="852" alt="Screenshot 2026-07-18 142846" src="https://github.com/user-attachments/assets/406798ef-18f9-4a90-8e60-6f43b49c7891" />
+
+<img width="1918" height="898" alt="Screenshot 2026-07-18 142935" src="https://github.com/user-attachments/assets/4d9a4a4a-5e8c-48fc-9040-9e8da1333a1b" />
+
 
 Authentication
 
+<img width="1918" height="906" alt="Screenshot 2026-07-18 143012" src="https://github.com/user-attachments/assets/207f7c2a-0ba1-4cfa-b309-5fec33c3098d" />
+
+<img width="1918" height="898" alt="Screenshot 2026-07-18 143041" src="https://github.com/user-attachments/assets/dd07cbc3-1851-4bb8-b1a7-cd77dc420b0b" />
+
+<img width="1918" height="902" alt="Screenshot 2026-07-18 143104" src="https://github.com/user-attachments/assets/f72f9705-c0ec-4b63-9050-55b0b9310fcf" />
+
+<img width="1918" height="895" alt="Screenshot 2026-07-18 143123" src="https://github.com/user-attachments/assets/0ca5f57d-3678-475f-92cc-0c4b1b6b369b" />
+
+
 Features
 ```
+<img width="1918" height="905" alt="Screenshot 2026-07-18 142958" src="https://github.com/user-attachments/assets/6548009b-2f50-4e07-981c-5e812f859eda" />
+
+<img width="1918" height="898" alt="Screenshot 2026-07-18 143629" src="https://github.com/user-attachments/assets/246b45a5-c6e3-455f-bece-c2e706f7f306" />
+
+<img width="1918" height="907" alt="Screenshot 2026-07-18 143659" src="https://github.com/user-attachments/assets/c7b8c4f2-34bf-482c-8841-2421afc8369e" />
+
 
 ---
 
