@@ -268,6 +268,6 @@ It helps others discover the project and motivates future development.
 
 <div align="center">
 
-**Made with ❤️ using JavaScript & Node.js**
+**Made with ❤️ using MERN STACK**
 
 </div>
